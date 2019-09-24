@@ -219,12 +219,6 @@ int main() {
         }
     }
 #pragma clang diagnostic pop
-//    newCliente(clientes, &nC, "Luiz", "12501579437");
-//    //imprimeCliente(clientes, nC);
-//    consultaCliente(clientes, nC, 0);
-//    newImovel(imoveis, &nI, 0, 550, 10, end, "Adiemplente");
-//    //imprimeImovel(imoveis, nI);
-//    consultaImovel(imoveis, nI, 0);
     return 0;
 }
 
